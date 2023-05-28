@@ -14,7 +14,7 @@
             <pubDate>Sun, 28 May 2023 02:07:16 +0800</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/1.jpg" width="256" height="256"/>
+            <media:thumbnail url="thumbs/1.jpg" width="178" height="256"/>
             <media:content type="image/jpeg" url="slides/1.jpg" width="764" height="1100"/>
             <guid isPermaLink="false">slides/1.jpg</guid>
         </item>
@@ -24,7 +24,7 @@
             <pubDate>Sun, 28 May 2023 02:07:16 +0800</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/2.jpg" width="256" height="256"/>
+            <media:thumbnail url="thumbs/2.jpg" width="198" height="256"/>
             <media:content type="image/jpeg" url="slides/2.jpg" width="793" height="1024"/>
             <guid isPermaLink="false">slides/2.jpg</guid>
         </item>
@@ -34,7 +34,7 @@
             <pubDate>Sun, 28 May 2023 02:07:16 +0800</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/3.jpg" width="256" height="256"/>
+            <media:thumbnail url="thumbs/3.jpg" width="256" height="200"/>
             <media:content type="image/jpeg" url="slides/3.jpg" width="1024" height="801"/>
             <guid isPermaLink="false">slides/3.jpg</guid>
         </item>
@@ -44,7 +44,7 @@
             <pubDate>Sun, 28 May 2023 02:07:16 +0800</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/4.jpg" width="256" height="256"/>
+            <media:thumbnail url="thumbs/4.jpg" width="192" height="256"/>
             <media:content type="image/jpeg" url="slides/4.jpg" width="667" height="888"/>
             <guid isPermaLink="false">slides/4.jpg</guid>
         </item>
@@ -64,7 +64,7 @@
             <pubDate>Sun, 28 May 2023 02:07:16 +0800</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/6.jpg" width="256" height="256"/>
+            <media:thumbnail url="thumbs/6.jpg" width="178" height="256"/>
             <media:content type="image/jpeg" url="slides/6.jpg" width="764" height="1097"/>
             <guid isPermaLink="false">slides/6.jpg</guid>
         </item>
@@ -74,7 +74,7 @@
             <pubDate>Sun, 28 May 2023 02:07:16 +0800</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/7.jpg" width="256" height="256"/>
+            <media:thumbnail url="thumbs/7.jpg" width="193" height="256"/>
             <media:content type="image/jpeg" url="slides/7.jpg" width="670" height="889"/>
             <guid isPermaLink="false">slides/7.jpg</guid>
         </item>
@@ -84,7 +84,7 @@
             <pubDate>Sun, 28 May 2023 02:07:16 +0800</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/8.jpg" width="256" height="256"/>
+            <media:thumbnail url="thumbs/8.jpg" width="256" height="193"/>
             <media:content type="image/jpeg" url="slides/8.jpg" width="1272" height="959"/>
             <guid isPermaLink="false">slides/8.jpg</guid>
         </item>
@@ -94,7 +94,7 @@
             <pubDate>Sun, 28 May 2023 02:07:16 +0800</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/9.jpg" width="256" height="256"/>
+            <media:thumbnail url="thumbs/9.jpg" width="198" height="256"/>
             <media:content type="image/jpeg" url="slides/9.jpg" width="764" height="986"/>
             <guid isPermaLink="false">slides/9.jpg</guid>
         </item>
@@ -104,7 +104,7 @@
             <pubDate>Sun, 28 May 2023 02:07:16 +0800</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/10.jpg" width="256" height="256"/>
+            <media:thumbnail url="thumbs/10.jpg" width="256" height="171"/>
             <media:content type="image/jpeg" url="slides/10.jpg" width="1536" height="1024"/>
             <guid isPermaLink="false">slides/10.jpg</guid>
         </item>
@@ -114,7 +114,7 @@
             <pubDate>Sun, 28 May 2023 02:07:16 +0800</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/11.jpg" width="256" height="256"/>
+            <media:thumbnail url="thumbs/11.jpg" width="198" height="256"/>
             <media:content type="image/jpeg" url="slides/11.jpg" width="764" height="986"/>
             <guid isPermaLink="false">slides/11.jpg</guid>
         </item>
@@ -134,7 +134,7 @@
             <pubDate>Sun, 28 May 2023 02:07:16 +0800</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/15.jpg" width="256" height="256"/>
+            <media:thumbnail url="thumbs/15.jpg" width="171" height="256"/>
             <media:content type="image/jpeg" url="slides/15.jpg" width="665" height="1002"/>
             <guid isPermaLink="false">slides/15.jpg</guid>
         </item>
@@ -144,7 +144,7 @@
             <pubDate>Sun, 28 May 2023 02:07:16 +0800</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/14.jpg" width="256" height="256"/>
+            <media:thumbnail url="thumbs/14.jpg" width="256" height="194"/>
             <media:content type="image/jpeg" url="slides/14.jpg" width="660" height="499"/>
             <guid isPermaLink="false">slides/14.jpg</guid>
         </item>
@@ -154,7 +154,7 @@
             <pubDate>Sun, 28 May 2023 02:07:16 +0800</pubDate>
             <description></description>
             <media:description type="html"></media:description>
-            <media:thumbnail url="thumbs/12.jpg" width="256" height="256"/>
+            <media:thumbnail url="thumbs/12.jpg" width="256" height="191"/>
             <media:content type="image/jpeg" url="slides/12.jpg" width="664" height="496"/>
             <guid isPermaLink="false">slides/12.jpg</guid>
         </item>
